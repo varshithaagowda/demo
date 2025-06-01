@@ -9,4 +9,4 @@ def health_check():
 
 @app.get("/name")
 def get_name():
-    return JSONResponse(content={"name": "varhsu"})
+    return JSONResponse(content={"name": "Varsitha hates Kiran"})
